@@ -4,7 +4,7 @@
 - Leetcode:                           [muhammadalibotirov](https://leetcode.com/u/muhammadali_botirov_/)
 - Telegram:                           [muhammadalibotirov](https://t.me/MukhammadaliBatiroff)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
